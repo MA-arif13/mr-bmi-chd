@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ieu-a-2","ieu-a-7","Coronary heart disease || id:ieu-a-7","Body mass index || id:ieu-a-2","MR Egger",143.827845576302,75,3.05512162616501e-06
+"ieu-a-2","ieu-a-7","Coronary heart disease || id:ieu-a-7","Body mass index || id:ieu-a-2","Inverse variance weighted",144.121293920931,76,3.99739123562722e-06

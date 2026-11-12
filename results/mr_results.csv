@@ -1,0 +1,6 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
+"ieu-a-2","ieu-a-7","Coronary heart disease || id:ieu-a-7","Body mass index || id:ieu-a-2","MR Egger",77,0.548037144277462,0.1866864180852,0.00441705862010969
+"ieu-a-2","ieu-a-7","Coronary heart disease || id:ieu-a-7","Body mass index || id:ieu-a-2","Weighted median",77,0.502077967300374,0.0757368614537611,3.37415490838755e-11
+"ieu-a-2","ieu-a-7","Coronary heart disease || id:ieu-a-7","Body mass index || id:ieu-a-2","Inverse variance weighted",77,0.479563610811995,0.064532226118295,1.07469010598283e-13
+"ieu-a-2","ieu-a-7","Coronary heart disease || id:ieu-a-7","Body mass index || id:ieu-a-2","Simple mode",77,0.349459295447978,0.162134633766137,0.034299215695325
+"ieu-a-2","ieu-a-7","Coronary heart disease || id:ieu-a-7","Body mass index || id:ieu-a-2","Weighted mode",77,0.453977728022015,0.152613291508732,0.00392958601444547
